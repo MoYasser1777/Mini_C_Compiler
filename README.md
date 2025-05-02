@@ -1,6 +1,6 @@
 # Mini C Compiler
 
-This project is a simple compiler built using **Flex**, **Bison**, and **GCC** for lexical, syntax, and semantic analysis. A Python GUI built with **Tkinter** is also provided for user-friendly interaction.
+This project is a compiler for a language similar to C built using **Flex**, **Bison**, and **GCC** for lexical, syntax, and semantic analysis. A Python GUI built with **Tkinter** is also provided for user-friendly interaction.
 
 ---
 
